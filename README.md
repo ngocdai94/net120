@@ -1,2 +1,2 @@
-# net120
-Network Essential
+# NET120
+Network Essential Class
